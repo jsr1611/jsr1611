@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<!--
+<!-- 
 **jsr1611/jsr1611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Jimmy's github ranking](https://api.fizmasoft.uz/mcard/rank?username=jsr1611&country_code=uzbekistan)](https://github.com/jsr1611)
 
 Here are some ideas to get you started:
 
