@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Jimmy's github ranking](https://api.fizmasoft.uz/mcard/rank?username=jsr1611&country_code=south_korea)](https://github.com/jsr1611)
+[![Jimmy's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jsr1611&country_code=south_korea)](https://github.com/jsr1611)
+[![Muhammadsher's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=Muhammadsher&country_code=uzbekistan)](https://github.com/Muhammadsher/github-readme-ranking)
+
 
 - 🔭 I’m currently working on a data visualization project using C# DotNet and Python.
 <!-- 
