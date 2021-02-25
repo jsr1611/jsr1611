@@ -2,6 +2,9 @@
 
 [![Jimmy's github ranking](https://github-readme-ranking.vercel.app/api/rank?username=jsr1611&country_code=south_korea)](https://github.com/jsr1611)
 
+[![Jimmy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsr1611)](https://github.com/jsr1611)
+
+
 
 - 🔭 I’m currently working on a data visualization project using C# DotNet and Python.
 <!-- 
